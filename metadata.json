@@ -1,0 +1,6 @@
+{
+  "name": "Ridgeline Roofing Co.",
+  "description": "Premium residential roofing company serving the Triangle Region of North Carolina. Roof replacement, repair, storm damage assessment, and instant estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
